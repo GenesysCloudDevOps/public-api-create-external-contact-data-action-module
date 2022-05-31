@@ -1,0 +1,21 @@
+{
+    "id": "7625285e-89c7-4c54-b1ee-7be7cba38438",
+    "name": "Create External Contact Data Action Module",
+    "description": "A Terraform/CX as Code remote module for the following Genesys Cloud public API operation: Create External Contact",
+    "origin": "genesys",
+    "type": "module",
+    "classification": "",
+    "tags": [],
+    "permissions": [],
+    "products": [
+        "Quality Assurance and Compliance"
+    ],
+    "documentation": [],
+    "presentation": [
+        {
+            "title": "Page 1",
+            "description": "Please enter the fields below",
+            "fields": []
+        }
+    ]
+}
