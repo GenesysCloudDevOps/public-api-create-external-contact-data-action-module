@@ -9,10 +9,6 @@
     "permissions": [
         "externalContacts:contact:add"
     ],
-    "products": [
-        "Collaborate Free",
-        "Contact and Contact Organization management"
-    ],
     "documentation": [],
     "presentation": [
         {
